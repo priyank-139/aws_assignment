@@ -12,7 +12,7 @@
 
 
 
-## Create Load Balance
+## Create Load Balancer
 
 
 <img src=./snaps/1.png>
