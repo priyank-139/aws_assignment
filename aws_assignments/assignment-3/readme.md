@@ -32,11 +32,11 @@ cd DeploymentStrategies/html/leadmark/public_html/
  ```
  aws s3 cp index.html s3://mybucket/index.html
  
- ```
+
  
  ## cloud front website hosting 
  
- ```
+```
  
 1- go to cloud front service > create disribution
 
