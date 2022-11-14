@@ -1,0 +1,10 @@
+ResourceType: VPC
+state: present
+attributes:
+    name: batch16
+    CIDR: 10.0.0.0/16
+    AZ: us-east-1
+    tags:
+        env: dev
+        owner: sandeep@opstree.com
+

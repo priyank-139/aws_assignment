@@ -1,0 +1,9 @@
+  VPC ID 'vpc-01994c8c519d3db7d' CREATED in 'us-east-1' region.
+  VPC ID 'vpc-01994c8c519d3db7d' NAMED as 'batch16'.
+  Subnet ID 'subnet-0c044235fe95b8a38' CREATED in 'us-east-1a' Availability Zone.
+  Subnet ID 'subnet-0c044235fe95b8a38' NAMED as 'batch16-pub-sn-aza'.
+  Internet Gateway ID 'igw-0c547c17d1c0f90ce' CREATED.
+  Internet Gateway ID 'igw-0c547c17d1c0f90ce' ATTACHED to VPC ID 'vpc-01994c8c519d3db7d'.
+  Route Table ID 'rtb-06504562a43f17449' CREATED.
+  Route to '0.0.0.0/0' via Internet Gateway ID 'igw-0c547c17d1c0f90ce' ADDED to Route Table ID 'rtb-06504562a43f17449'.
+  Public Subnet ID 'subnet-0c044235fe95b8a38' ASSOCIATED with Route Table ID 'rtb-06504562a43f17449'.

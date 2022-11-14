@@ -1,0 +1,9 @@
+ResourceType: SUBNET
+state: present
+attributes:
+    name: batch16-pub-sn-aza
+    CIDR: 10.0.0.0/24
+    AZ: us-east-1a
+    tags:
+        env: dev
+        owner: sandeep@opstree.com
